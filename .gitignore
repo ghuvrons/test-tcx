@@ -9,8 +9,7 @@
 !/Core/Src/main.c
 
 # TouchGFX
-/TouchGFX/generated
+/TouchGFX/**/*.cache
 /TouchGFX/config
 /TouchGFX/build
-/TouchGFX/target/generated
 /TouchGFX/simulator
