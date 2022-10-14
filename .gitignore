@@ -1,0 +1,16 @@
+
+/Core/*/*
+/Drivers
+/Middlewares
+/Debug
+/.settings
+/.mxproject
+
+!/Core/Src/main.c
+
+# TouchGFX
+/TouchGFX/generated
+/TouchGFX/config
+/TouchGFX/build
+/TouchGFX/target/generated
+/TouchGFX/simulator
