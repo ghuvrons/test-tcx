@@ -1,12 +1,13 @@
 
 /Core/*/*
 /Drivers
-/Middlewares
+/Middlewares/*/*
 /Debug
 /.settings
 /.mxproject
 
 !/Core/Src/main.c
+!/Middlewares/ST/touchgfx
 
 # TouchGFX
 /TouchGFX/**/*.cache
